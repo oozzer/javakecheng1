@@ -38,7 +38,7 @@ public class Test {
 	    }
 
 	}
-  package hhxx;
+
 
 public class PC {
 	CPU cpu;
